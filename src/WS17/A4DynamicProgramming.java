@@ -64,11 +64,7 @@ public class A4DynamicProgramming {
             for(int i = 0; i < k; i++){
                 mul1 += mem[i] * mem[k - 1 - i];
             }
-            long mul2 = 0;
-            for(int j = 0; j < k - 1 - j; j++){
-                mul2 += mem[j] * mem[k - 1 - j];
-            }
-            mem[k] = mul1 * mul2;
+
 
             possibilities += mem[k];
         }
