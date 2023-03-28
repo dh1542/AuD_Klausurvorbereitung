@@ -2,12 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea875825-ee45-43e6-8340-1232c5b93aef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS16/A6BinarySearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS17/A4List/SkipListSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS17/SearchAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS19/A2DynamicProgrmamming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS20/A2DynamicProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SS21/A3DynamicProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WS19/A2DynamicProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WS21/A3Backtracking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WS22/A3DynamicProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wissensfraggne/Wissensfragne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SS21/A2BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SS21/A2BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,20 +39,98 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="2I5BwD9BC8FufrTnhBAhQLoOrVX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Wissensfragne">
+    <configuration name="A2DynamicProgramming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WS19.A2DynamicProgramming" />
+      <module name="AuD_Klausurvorbereitung" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WS19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A2DynamicProgrmamming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SS19.A2DynamicProgrmamming" />
+      <module name="AuD_Klausurvorbereitung" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SS21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A3DynamicProgramming (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WS22.A3DynamicProgramming" />
+      <module name="AuD_Klausurvorbereitung" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WS22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAlgorithms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SS17.SearchAlgorithms" />
+      <module name="AuD_Klausurvorbereitung" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SS17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wissensfragne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wissensfraggne.Wissensfragne" />
+      <module name="AuD_Klausurvorbereitung" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wissensfraggne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Wissensfragne" />
+        <item itemvalue="Application.SearchAlgorithms" />
+        <item itemvalue="Application.A2DynamicProgramming" />
+        <item itemvalue="Application.A2DynamicProgrmamming" />
+        <item itemvalue="Application.A3DynamicProgramming (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,6 +156,39 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/SS21/A2BinarySearch.java</url>
+          <line>28</line>
+          <properties class="SS21.A2BinarySearch" method="last">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/WS19/A2DynamicProgramming.java</url>
+          <line>17</line>
+          <properties class="WS19.A2DynamicProgramming" method="recurse">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SS21/A2BinarySearch.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SS21/A2BinarySearch.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
